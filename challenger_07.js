@@ -1,4 +1,5 @@
 // Estamos vendo a velocidade do carro no radar se for maior que a velociade permitida ele leva uma multa.
+
 const Placa = () => {
   let letters = "ABCDEFGHIJKLMNOPQRSTUVXWYZ";
   let numbers = "0123456789";
